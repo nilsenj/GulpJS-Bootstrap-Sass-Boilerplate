@@ -25,9 +25,15 @@ well-done
 
 Then, to start compiling, just run in the root repo folder
 ~~~
-gulp
+npm install
 ~~~
 
+**and**
+
+then run in terminal
+~~~
+gulp
+~~~
 That's it!
 
 ### The details
